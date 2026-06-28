@@ -134,5 +134,6 @@ Features implemented:
 - Custom short URL generation (no external API)
 - URL validation (client + server side)
 - Copy-to-clipboard button per row
+- Soft delete URLs per row
 - AdminLTE 3 template
 - Eloquent ORM + Laravel Migrations
